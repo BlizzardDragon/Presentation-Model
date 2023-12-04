@@ -13,7 +13,7 @@ namespace PresentationModel
         public event Action OnAllowLevelUp;
         public event Action OnForbidLevelUp;
 
-        private string _localizationHP = "HP";
+        private string _localizationHP = "XP";
         private string _localizationLevel = "Level";
 
 
