@@ -6,8 +6,10 @@
 ### Инструкция
 Чтобы протестировать попап, необходимо выбрать на сцене "PopupManager", нажать в инспекторе кнопку "Show Popup" и раскрыть поле "Presentation Model".
 
-### DI System
+### Особенности
+- Presentation Model
 - Zenject
+- UI
 
 ### Плагины
 - Odin Inspector
